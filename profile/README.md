@@ -44,7 +44,7 @@ GPS 기반 실시간 버스 정보와 블루투스 통신 기술을 활용하여
 
 **임산부 버스 배려석 알림 앱 (Android)**
 
-- **기술 스택**: Kotlin, Android SDK, Location Services, BLE
+- **기술 스택**: Kotlin, Jetpack Compose, Android SDK, Location Services, BLE
 - **주요 기능**:
   - GPS 기반 정류장 자동 검색
   - 실시간 버스 노선 정보 조회
